@@ -1,0 +1,21 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+*.sh
+*.json
+*.log
+*.gz
+
+### VS Code ###
+.vscode/
+.vs/
+
+application.properties
+Dockerfile
